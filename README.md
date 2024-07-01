@@ -1,3 +1,11 @@
+# yyc-orienteering
+Repo for the Calgary microprojects team working on the orienteering project in May 2024
+
+Data Product Deliverables:
+1. Tableau dashboard: https://public.tableau.com/app/profile/reimark.mendoza/viz/orienteering-micro-projects-dashboard2/Dashboard1
+2. Web UI - https://eventsmap.vercel.app/
+3. Results of the Data Analysis - slides 11-12 - https://docs.google.com/presentation/d/1OphNzM8cJ7PHq2Hpe23s3vDxa_8jYt8ZWtIJ-W9oukM/edit#slide=id.g2e353edeb0b_2_28
+   
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
